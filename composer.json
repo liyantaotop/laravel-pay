@@ -1,15 +1,15 @@
 {
-    "name": "yansongda/laravel-pay",
+    "name": "WCDAPay/WCDAPay",
     "description": "专注 Alipay 和 WeChat 的 laravel 支付扩展包",
     "keywords": ["alipay", "wechat", "pay", "laravel", "package"],
     "support": {
-        "issues": "https://github.com/yansongda/laravel-pay/issues",
-        "source": "https://github.com/yansongda/laravel-pay"
+        "issues": "https://github.com/liyantaotop/laravel-pay/issues",
+        "source": "https://github.com/liyantaotop/laravel-pay"
     },
     "authors": [
         {
-            "name": "yansongda",
-            "email": "me@yansongda.cn"
+            "name": "wcda",
+            "email": "358225063@qq.com"
         }
     ],
     "require": {
