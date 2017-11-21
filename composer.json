@@ -14,21 +14,21 @@
     ],
     "require": {
         "illuminate/support": "^5.1",
-        "wcda/pay": "^2.0.1"
+        "wcda/pay": "^2.0.2"
 
     },
     "autoload": {
         "psr-4": {
-            "wcda\\LaravelPay\\": "src"
+            "Yansongda\\LaravelPay\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "wcda\\LaravelPay\\PayServiceProvider"
+                "Yansongda\\LaravelPay\\PayServiceProvider"
             ],
             "aliases": {
-                "Pay": "wcda\\LaravelPay\\Facades\\Pay"
+                "Pay": "Yansongda\\LaravelPay\\Facades\\Pay"
             }
         }
     },
