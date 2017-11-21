@@ -18,16 +18,16 @@
     },
     "autoload": {
         "psr-4": {
-            "Yansongda\\LaravelPay\\": "src"
+            "wcda\\LaravelPay\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Yansongda\\LaravelPay\\PayServiceProvider"
+                "wcda\\LaravelPay\\PayServiceProvider"
             ],
             "aliases": {
-                "Pay": "Yansongda\\LaravelPay\\Facades\\Pay"
+                "Pay": "wcda\\LaravelPay\\Facades\\Pay"
             }
         }
     },
