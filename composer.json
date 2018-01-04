@@ -14,7 +14,7 @@
     ],
     "require": {
         "illuminate/support": "^5.1",
-        "wcda/pay": "v2.0.5"
+        "wcda/pay": "2.0.6"
 
     },
     "autoload": {
